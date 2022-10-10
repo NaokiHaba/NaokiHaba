@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naoki-haba" alt="naoki-haba" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/naoki-haba" target="blank"><img src="https://img.shields.io/twitter/follow/naoki-haba?logo=twitter&style=for-the-badge" alt="naoki-haba" /></a> </p>
+<p align="left"> <a href="https://twitter.com/naoki_haba" target="blank"><img src="https://img.shields.io/twitter/follow/naoki_haba?logo=twitter&style=for-the-badge" alt="naoki-haba" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/naoki-haba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naoki-haba" height="30" width="40" /></a>
+<a href="https://twitter.com/naoki_haba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naoki-haba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
