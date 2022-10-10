@@ -9,6 +9,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【Auth0】JWTにプロパティを追加したい場合のまとめ](https://zenn.dev/naonao70/articles/6279b38c7cf32f)
+- [【GraphQL+ TypeScript】graphql-upload使用時にcorresponding type declarations](https://zenn.dev/naonao70/articles/b523b23b216708)
+- [【Next.js】詳細ページに遷移した後にリロードすると404になった時の対処方法](https://zenn.dev/naonao70/articles/14c127eca125ac)
+- [【NestJS】Hasura・NestJSをAuth0で認証処理を導入する](https://zenn.dev/naonao70/articles/90a31c2ea8470a)
+- [【ApolloClient】ReferenceError: fetch is not defined でTestが落ちる場合の対処方法](https://zenn.dev/naonao70/articles/494582f525f207)
+- [【Next.js】react-testing-libraryでtoBeInTheDocument&lpar;&rpar;が見つからないと言われた場合](https://zenn.dev/naonao70/articles/26fa670a2ef31c)
+- [【GCP】DataStoreのKindをDataFlowで削除するアレコレ](https://zenn.dev/naonao70/articles/c2de597545d203)
+- [【Next.js】@types/reactが認識されない場合の対応方法](https://zenn.dev/naonao70/articles/d7625e4e8546ed)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
