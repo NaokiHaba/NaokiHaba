@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [postgresqlに接続するとSSLが有効になってないため弾かれる場合の対処方法](https://zenn.dev/naonao70/articles/efcd7a3467d408)
 - [【graphql-upload】export in package.json causes import failuresの解消方法](https://zenn.dev/naonao70/articles/03bb696c3ff55c)
 - [Auth0のSDKを使ってNestJSからユーザーを登録する方法](https://zenn.dev/naonao70/articles/f39a54c4a703e4)
 - [【Auth0】JWTにプロパティを追加したい場合のまとめ](https://zenn.dev/naonao70/articles/6279b38c7cf32f)
@@ -16,7 +17,6 @@
 - [【NestJS】Hasura・NestJSをAuth0で認証処理を導入する](https://zenn.dev/naonao70/articles/90a31c2ea8470a)
 - [【ApolloClient】ReferenceError: fetch is not defined でTestが落ちる場合の対処方法](https://zenn.dev/naonao70/articles/494582f525f207)
 - [【Next.js】react-testing-libraryでtoBeInTheDocument&lpar;&rpar;が見つからないと言われた場合](https://zenn.dev/naonao70/articles/26fa670a2ef31c)
-- [【GCP】DataStoreのKindをDataFlowで削除するアレコレ](https://zenn.dev/naonao70/articles/c2de597545d203)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
