@@ -6,7 +6,8 @@ Hi, I'm a backend engineer. 🤝
 
 ## 📈 Status
 [![Likes](https://badgen.org/img/zenn/naonao70/likes?style=for-the-badge)](https://zenn.dev/naonao70)
-[![Articles]prisma,react,(ht,react,tps://badgen.org/img/zenn/naonao70/articles?style=for-the-badge)](htphp,postgres,prisma,react,
+[![Articles](https://badgen.org/img/zenn/naonao70/articles?style=for-the-badge)](https://zenn.dev/naonao70)
+
 [![Contributions](https://badgen.org/img/qiita/NaokiHaba/contributions?style=for-the-badge)](https://qiita.com/NaokiHaba)
 [![Articles](https://badgen.org/img/qiita/NaokiHaba/articles?style=for-the-badge)](https://qiita.com/NaokiHaba)
 
