@@ -17,3 +17,13 @@ Hi, I'm a backend engineer. 🤝
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaokiHaba)](https://github.com/NaokiHaba/github-profile-trophy)
+
+## 📨 Contact me.
+
+<p>
+  <a href="https://github.com/NaokiHaba" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://twitter.com/NaokiHaba" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />   </a>
+</p>
