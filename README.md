@@ -11,11 +11,6 @@ Hi, I'm a backend engineer. 🤝
 [![Contributions](https://badgen.org/img/qiita/NaokiHaba/contributions?style=for-the-badge)](https://qiita.com/NaokiHaba)
 [![Articles](https://badgen.org/img/qiita/NaokiHaba/articles?style=for-the-badge)](https://qiita.com/NaokiHaba)
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiHaba&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NaokiHaba" />
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaokiHaba)](https://github.com/NaokiHaba/github-profile-trophy)
 
 ## 📨 Contact me.
