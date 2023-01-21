@@ -1,6 +1,8 @@
 ## 🇯🇵 About naoki.haba
 Hi, I'm a backend engineer. 🤝
 
+[my personal project](https://github.com/naokis-practice-project)
+
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws,firebase,gcp,git,github,go,graphql,html,js,jest,jquery,laravel,mysql,nestjs,nextjs,nodejs,nuxtjs,php,postgres,prisma,react,ts," />
 
