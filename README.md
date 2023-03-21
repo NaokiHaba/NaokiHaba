@@ -17,6 +17,9 @@
 
 ### 📊 GitHub Stats
 
+**This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have
+the most code of on GitHub.**
+
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaokiHaba&theme=onedark" alt="github stats">
 </div>
@@ -32,7 +35,3 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaokiHaba&theme=onedark" alt="NaokiHaba" />
     </a>
 </div>
-
-**This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have
-the most code of on GitHub.**
-
