@@ -2,7 +2,6 @@
 
 ### [About Me](https://youtrust.jp/users/naoki_haba)
 
----
 
 [ ![](https://komarev.com/ghpvc/?username=NaokiHaba)](https://github.com/NaokiHaba/NaokiHaba/)
 [![](https://img.shields.io/github/followers/NaokiHaba?label=follow&logo=github&style=flat)
@@ -15,11 +14,9 @@
 [![](https://zenn.badge.nikaera.com/s/naonao70/likes?style=plastic)](https://zenn.dev/naonao70)
 [![](https://img.shields.io/twitter/follow/NaokiHaba?style=social)](https://twitter.com/NaokiHaba)
 
----
 
 ### 📊 GitHub Stats
 
----
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaokiHaba&theme=onedark" alt="github stats">
 </div>
@@ -39,4 +36,3 @@
 **This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have
 the most code of on GitHub.**
 
----
