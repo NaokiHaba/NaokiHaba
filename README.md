@@ -2,8 +2,6 @@
 
 ### [About Me](https://youtrust.jp/users/naoki_haba)
 
-<img src="https://user-images.githubusercontent.com/59875779/226507512-49163213-094c-41a7-83c8-fbc0d0e58911.jpg" width=300px height=300px></img>
-
 
 [ ![](https://komarev.com/ghpvc/?username=NaokiHaba)](https://github.com/NaokiHaba/NaokiHaba/)
 [![](https://img.shields.io/github/followers/NaokiHaba?label=follow&logo=github&style=flat)
