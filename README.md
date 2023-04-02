@@ -35,3 +35,6 @@ the most code of on GitHub.**
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaokiHaba&theme=onedark" alt="NaokiHaba" />
     </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiHaba)](https://github.com/anuraghazra/github-readme-stats)
+
