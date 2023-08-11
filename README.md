@@ -1,40 +1,20 @@
-## Hi 👋, I'm NaokiHaba
+<h1 align="center">こんにちは 👋、私は羽場直樹です</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naokihaba&label=Profile%20views&color =0e75b6&style= flat" alt="naokihaba" /> </p>
 
-### [About Me](https://lapras.com/public/YOUQXSS)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naokihaba" alt="naokihaba" /></a> </p>
 
+<p align="left"> <a href=" https://twitter.com/naokihaba" target="blank"><img src="https://img.shields.io/twitter/follow/naokihaba?logo=twitter&style=for-the-badge" alt="naokihaba" /></a> </p>
 
-[ ![](https://komarev.com/ghpvc/?username=NaokiHaba)](https://github.com/NaokiHaba/NaokiHaba/)
-[![](https://img.shields.io/github/followers/NaokiHaba?label=follow&logo=github&style=flat)
-](https://github.com/NaokiHaba)
-[![](https://qiita-badge.apiapi.app/s/NaokiHaba/posts.svg)
-](http://qiita.com/NaokiHaba)
-[![](https://qiita-badge.apiapi.app/s/NaokiHaba/contributions.svg)
-](http://qiita.com/NaokiHaba)
-[![](https://zenn.badge.nikaera.com/s/naonao70/articles?style=plastic)](https://zenn.dev/naonao70/articles)
-[![](https://zenn.badge.nikaera.com/s/naonao70/likes?style=plastic)](https://zenn.dev/naonao70)
-[![](https://img.shields.io/twitter/follow/NaokiHaba?style=social)](https://twitter.com/NaokiHaba)
+<h3 align="left">連絡してください:</h3>
+< p align="左">
+<a href="https://twitter.com/naokihaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="naokihaba" height="30" width="40" /></a> </p>
+<
 
+h3 align="left">言語とツール:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt=" docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https ://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang .org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/ logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt=" laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> < a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs. org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height=" 40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width ="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw .githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https ://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs. org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt=" vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src=" https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </ a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt= "vuetify" width="40" height="40"/> </a> </p>svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </ a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt= "vuetify" width="40" height="40"/> </a> </p>org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt=" vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src=" https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt=" vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src=" https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naokihaba&show_icons=true&locale=en&layout=compact" alt="naokihaba" /> </p>
 
-**This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have
-the most code of on GitHub.**
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=naokihaba&show_icons=true&locale=ja" alt="naokihaba" /> </p>
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaokiHaba&theme=onedark" alt="github stats">
-</div>
-<div style="display: flex;">
-  <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaokiHaba&theme=onedark">
-  </span>
-  <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaokiHaba&theme=onedark">
-  </span>
-</div>
-<div>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaokiHaba&theme=onedark" alt="NaokiHaba" />
-    </a>
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiHaba)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naokihaba&" alt="naokihaba" /></p>
