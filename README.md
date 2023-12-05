@@ -1,14 +1,10 @@
-[![](https://raw.githubusercontent.com/NaokiHaba/NaokiHaba/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaokiHaba&theme=dark)
 
-<p align="left"> 
-  <a href="https://github.com/NaokiHaba/NaokiHaba/">
-    <img src="https://komarev.com/ghpvc/?username=NaokiHaba" alt="NaokiHaba" />
-  </a>
-  <a href="https://github.com/NaokiHaba">
-    <img height="20" src="https://img.shields.io/github/followers/NaokiHaba?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaokiHaba&theme=dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaokiHaba&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaokiHaba&theme=dark)
 
 <p align="left">
   <a href="https://zenn.dev/naonao70">
@@ -28,21 +24,7 @@
   </a>
 </p>
 
-
-<div align="left">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/NaokiHaba"/>  
-</div>
-
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiHaba&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NaokiHaba&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaokiHaba&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://raw.githubusercontent.com/NaokiHaba/NaokiHaba/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/NaokiHaba/NaokiHaba/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/NaokiHaba/NaokiHaba/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://activity-graph.herokuapp.com/graph?username=NaokiHaba&theme=github)](https://activity-graph.herokuapp.com/graph?username=NaokiHaba&theme=github)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=NaokiHaba&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=NaokiHaba&theme=dark)
