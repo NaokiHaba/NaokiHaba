@@ -1,9 +1,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaokiHaba&theme=dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaokiHaba&theme=dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaokiHaba&theme=dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaokiHaba&theme=dark)
 
 <p align="left">
