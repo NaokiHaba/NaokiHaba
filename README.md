@@ -28,26 +28,6 @@
   </a>
 </p>
 
-<p align="left"> 
-  <a href="https://NaokiHaba.github.io/">
-    <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
-  </a>
-  <a href="https://twitter.com/NaokiHaba">
-    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
-  </a>
-  <a href="https://qiita.com/NaokiHaba">
-    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
-  </a>
-  <a href="https://dev.to/NaokiHaba" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="NaokiHaba" height="30" width="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/NaokiHaba" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="NaokiHaba" height="30" width="30" />
-  </a>
-  <a href="https://www.quora.com/profile/NaokiHaba" target="blank">
-    <img src="https://simpleicons.org/icons/quora.svg" alt="NaokiHaba" height="30" width="30" />
-  </a>
-</p>
 
 <div align="left">
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/NaokiHaba"/>  
