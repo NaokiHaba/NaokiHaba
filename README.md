@@ -1,4 +1,4 @@
-## 👋 Hi! I'm NaokiHaba
+[![](https://raw.githubusercontent.com/NaokiHaba/NaokiHaba/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="left"> 
   <a href="https://github.com/NaokiHaba/NaokiHaba/">
