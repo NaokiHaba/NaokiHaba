@@ -1,7 +1,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaokiHaba&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaokiHaba&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaokiHaba&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaokiHaba&theme=github_dark)
 
 <p align="left">
   <a href="https://zenn.dev/naonao70">
