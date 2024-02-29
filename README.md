@@ -1,6 +1,7 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaokiHaba&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaokiHaba&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaokiHaba&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiHaba)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaokiHaba&theme=dracula&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left">
   <a href="https://zenn.dev/naonao70">
@@ -19,8 +20,3 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/NaokiHaba/posts.svg" />
   </a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaokiHaba&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/NaokiHaba/NaokiHaba/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NaokiHaba/NaokiHaba/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NaokiHaba/NaokiHaba/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
