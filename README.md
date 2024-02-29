@@ -1,6 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiHaba)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaokiHaba&theme=dracula&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaokiHaba&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left">
