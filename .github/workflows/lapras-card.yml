@@ -12,16 +12,11 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: "https://lapras.com/public/YOUQXSS"
+          SHARE_ID: "YOUQXSS"
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
-          # ICON_FIRST: "#030E21"
-          # ICON_SECOND: "#1688BF"
-          # BACKGROUND_FIRST: "#020E27"
-          # BACKGROUND_SECOND: "#0E5593"
-          # LANG: "ja"
-          # CARD_WIDTH: "400"
-          # UPDATE_TIME: "true"
-          # README_FILE: "README.md"
-          # IS_CENTER: "true"
-          # ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"
+          ICON_FIRST: "#007b5c"
+          ICON_SECOND: "#00bf8f"
+          BACKGROUND_FIRST: "#004736"
+          BACKGROUND_SECOND: "#00bf8f"
+          LANG: "en"
