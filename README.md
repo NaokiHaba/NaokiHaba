@@ -1,1 +1,5 @@
-![Metrics](https://metrics.lecoq.io/NaokiHaba?template=classic&sponsors=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FTokyo)
+![Metrics](/github-metrics.svg)
+
+<!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/YOUQXSS" target="_blank" rel="noopener noreferrer"><img alt="YOUQXSS's scores on LAPRAS are as follows: Engineering: 3.88 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.46 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.88&b=3.43&i=3.46&b1=%23004736&b2=%2300bf8f&i1=%23007b5c&i2=%2300bf8f&l=en" width="400" ></a>  
+Last Updated on 7/31/2024, 12:12:40 AM</p>
