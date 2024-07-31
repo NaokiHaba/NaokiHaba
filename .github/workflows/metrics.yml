@@ -1,9 +1,8 @@
-# https://metrics.lecoq.io/
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (Runs at 09:00 JST every day)
-  schedule: [{cron: "0 0 * * *"}]
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -28,19 +27,23 @@ jobs:
           # Options
           user: NaokiHaba
           template: classic
-          base: header, activity, repositories, metadata
-          config_display: large
-          config_padding: 0, 10 + 8%
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 15
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://zenn.dev/naonao70/feed
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_settings: {
+  "url": "https://skyline.github.com/${login}/${year}",
+  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+  "wait": 1,
+  "hide": "button, footer, a"
+}
+
+          plugin_skyline_year: current-year
