@@ -25,25 +25,13 @@
   <a href="https://qiita.com/NaokiHaba"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
 </p>
 
+<!-- Copy-paste in your Readme.md file -->
 
-### Recent Activities
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=59875779" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59875779&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @NaokiHaba" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59875779&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NaokiHaba&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=NaokiHaba&theme=transparent&hide_border=true" /></a>
-</p>
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaokiHaba&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=NaokiHaba&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-### Languages
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaokiHaba&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaokiHaba&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiHaba&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Achievement
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaokiHaba&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
