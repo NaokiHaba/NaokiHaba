@@ -1,37 +1,28 @@
+# 👋 Hi! I'm Naoki Haba
 
-## 👋 Hi! I'm Naoki Haba
+## 🌐 Socials
 
-<p align="left"> 
-  <a href="https://github.com/NaokiHaba/NaokiHaba/"><img src="https://komarev.com/ghpvc/?username=NaokiHaba" alt="NaokiHaba" /></a>
-  <a href="https://github.com/NaokiHaba"><img height="20" src="https://img.shields.io/github/followers/NaokiHaba?label=follow&logo=github&style=flat" /></a>
-  <a href="https://github.com/NaokiHaba"><img height="20" src="https://img.shields.io/github/stars/NaokiHaba?logo=github&style=flat" /></a>
-</p>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naoki_haba)
 
-<p align="left"> 
-  <a href="http://x.com/naoki_haba"><img height="20" src="https://img.shields.io/twitter/follow/naoki_haba?style=flat&logo=x" /></a>
-</p>
+[![Likes](https://badgen.org/img/zenn/naonao70/likes?style=plastic)](https://zenn.dev/naonao70)
+[![Followers](https://badgen.org/img/zenn/naonao70/followers?style=plastic)](https://zenn.dev/naonao70)
+[![Articles](https://badgen.org/img/zenn/naonao70/articles?style=plastic)](https://zenn.dev/naonao70)
 
-<p align="left">
-  <a href="https://zenn.dev/naonao70"><img height="20" src="https://badgen.org/img/zenn/naonao70/likes?style=plastic" alt="Likes" /></a>
-  <a href="https://zenn.dev/naonao70"><img height="20" src="https://badgen.org/img/zenn/naonao70/followers?style=plastic" alt="Followers" /></a>
-  <a href="https://zenn.dev/naonao70"><img height="20" src="https://badgen.org/img/zenn/naonao70/articles?style=plastic" alt="Articles" /></a>
-  <a href="http://qiita.com/NaokiHaba"><img height="20" src="https://qiita-badge.apiapi.app/s/NaokiHaba/contributions.svg" /></a>
-  <a href="http://qiita.com/NaokiHaba"><img height="20" src="https://qiita-badge.apiapi.app/s/NaokiHaba/posts.svg" /></a>
-</p>
+[![Contributions](https://qiita-badge.apiapi.app/s/NaokiHaba/contributions.svg)](http://qiita.com/NaokiHaba)
+[![Posts](https://qiita-badge.apiapi.app/s/NaokiHaba/posts.svg)](http://qiita.com/NaokiHaba)
 
-<p align="left"> 
-  <a href="https://x.com/naoki_haba"><img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" /></a>
-  <a href="https://zenn.dev/naonao70"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
-  <a href="https://qiita.com/NaokiHaba"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
-</p>
+## 💻 Tech Stack
 
-<!-- Copy-paste in your Readme.md file -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=59875779" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59875779&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @NaokiHaba" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59875779&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+## 📊 GitHub Stats
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+![Dashboard stats of @NaokiHaba](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59875779&image_size=auto&color_scheme=dark)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NaokiHaba&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🔝 Top Contributed Repo
+
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=NaokiHaba&limit=5&theme=radical&combine_all_yearly_contributions=true)
