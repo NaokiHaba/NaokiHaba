@@ -7,7 +7,7 @@
 
 ## 🌐 Socials
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nao_hina70)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naohaba70)
 
 [![Likes](https://badgen.org/img/zenn/naonao70/likes?style=plastic)](https://zenn.dev/naonao70)
 [![Followers](https://badgen.org/img/zenn/naonao70/followers?style=plastic)](https://zenn.dev/naonao70)
