@@ -13,6 +13,6 @@
 [![Followers](https://badgen.org/img/zenn/naonao70/followers?style=plastic)](https://zenn.dev/naonao70)
 [![Articles](https://badgen.org/img/zenn/naonao70/articles?style=plastic)](https://zenn.dev/naonao70)
 
-[![Contributions](https://qiita-badge.apiapi.app/s/NaokiHaba/contributions.svg)](http://qiita.com/NaokiHaba)
-[![Posts](https://qiita-badge.apiapi.app/s/NaokiHaba/posts.svg)](http://qiita.com/NaokiHaba)
+[![Contributions](https://qiita-badge.apiapi.app/s/NaokiHaba/contributions.svg)](http://qiita.com/naohaba)
+[![Posts](https://qiita-badge.apiapi.app/s/NaokiHaba/posts.svg)](http://qiita.com/naohaba)
 
