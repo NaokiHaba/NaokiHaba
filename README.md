@@ -1,2 +1,16 @@
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NaokiHaba&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaokiHaba&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Hi I'm Naoki Haba
+
+A software engineer based in Japan.
+
+## 🔭 Tech stack
+
+![Tech stack](https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,vue,pinia,nuxt,vuetify)
+
+### 🛠 Tools I use
+
+![Tools I use](https://skillicons.dev/icons?i=neovim,vim,vscode,pnpm,vite,vercel,git,github,postman,discord)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🚀 Contribution
