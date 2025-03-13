@@ -8,7 +8,7 @@ A software engineer based in Japan.
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=neovim,vim,vscode,pnpm,vite,vercel,git,github,postman,discord)
+![Tools I use](https://skillicons.dev/icons?i=vscode,pnpm,vite,vercel,git,github,postman,discord)
 
 <!--START_SECTION:waka-->
 
@@ -23,8 +23,7 @@ No activity tracked
 ### 🚀 Contribution
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaokiHaba/NaokiHaba/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
 </picture>
-
