@@ -11,6 +11,13 @@ A software engineer based in Japan.
 ![Tools I use](https://skillicons.dev/icons?i=neovim,vim,vscode,pnpm,vite,vercel,git,github,postman,discord)
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### 🚀 Contribution
