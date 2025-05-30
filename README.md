@@ -4,7 +4,7 @@ A software engineer based in Japan.
 
 ## 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,vue,pinia,nuxt,vuetify)
+![Tech stack](https://skillicons.dev/icons?i=nodejs,js,ts,vue,pinia,nuxt,vuetify,nestjs,react)
 
 ### 🛠 Tools I use
 
